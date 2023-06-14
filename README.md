@@ -26,7 +26,7 @@
 
 ### Contato/ Contact Info
 <div style="display: inline_block" >
-  <a href="https://www.linkedin.com/in/LobatoDiogo/" >
+  <a href="https://www.linkedin.com/in/jose-diogo-lobato/" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jdiogolobato@gmail.com" />
