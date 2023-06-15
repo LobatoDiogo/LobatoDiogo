@@ -13,12 +13,13 @@
 
 ### Tecnologias que mais uso:
 <div style="display: inline_block" >
- <img height="40" width="50" src="https://user-images.githubusercontent.com/74669052/211087975-24a37e4c-1cdf-40ff-9cfd-8f9f9b3a2132.svg" />
+ <img height="40" width="50" src="https://user-images.githubusercontent.com/74669052/211087975-24a37e4c-1cdf-40ff-9cfd-8f9f9b3a2132.svg" /> 
  <img height="40" width="50" src="https://user-images.githubusercontent.com/74669052/211087011-aeaceb87-67f7-4978-a428-769ed7af68c5.svg" />
  <img height="40" width="50" src="https://user-images.githubusercontent.com/74669052/211087772-448ba331-0d6b-4e26-a6ec-be37fec3332f.svg" />
+ <img height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" />
  <img height="40" width="50"  src="https://user-images.githubusercontent.com/74669052/211086619-13222ff8-bbd0-451e-9d66-73ba3cc28e3b.svg" />
  <img height="40" width="50"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" />
- <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+ <img height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" />
  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
  <img height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" />
