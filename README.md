@@ -1,6 +1,7 @@
-### Olá, eu sou o José Diogo 🖐️
-- 💻 Em transição de carreira para a área de tecnologia
-- 📚 Estudando desenvolvimento web full stack e Análise e Desenvolvimento de Sistemas 
+### Olá, eu sou o José Diogo Lobato Ribeiro 🖐️
+- 💻 Em transição de carreira para a área de tecnologia.
+- 🎓 Formado em Desenvolvimento Web Full Stack na escola Trybe.
+- 📚 Estudando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.
 
 ### English:
 - Hello, my name is José Diogo, currently transitioning careers to technology, studying Web Development.
@@ -22,6 +23,7 @@
  <img height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" />
  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+ <img height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg">
  <img height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" />
 </div>
 
