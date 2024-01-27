@@ -24,15 +24,15 @@
 
 <hr style="background-color: darkgray; border-radius: 3px; ">
 
-### Contato/ Contact Info
+### Contato
 <div style="display: inline_block" >
   <a href="https://www.linkedin.com/in/jose-diogo-lobato/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
   </a>
   <a href="mailto:jdiogolobato@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_mail_gmail_logo_icon_159346.png" width="48px" height="48px"/>
   </a>
   <a href="https://wa.me/+5522998684204">
-   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+   <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/whatsapp_logo_icon_147205.png" width="48px" height="48px"/>
   </a>  
 </div>
